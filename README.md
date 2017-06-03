@@ -6,4 +6,6 @@ Mirko Myllykoski, Roland Glowinski, Tommi Kärkkäinen, Tuomo Rossi: A GPU-Accel
 
 Download article: http://urn.fi/URN:NBN:fi:jyu-201507282599
 
+The PSCRCL solver can be downloaded from: https://github.com/mirkomyl/pscrcl
+
 The test program requires files `io_png.h` and `io_png.c`: https://github.com/nilx/io_png
